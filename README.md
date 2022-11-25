@@ -1,4 +1,4 @@
-# HackerRank Counting Inversions problem - Python solution
+# HackerRank's "Counting Inversions" problem - Python solution
 
 This solution uses a binary indexed tree (also known as Ryabko/Fenwick tree).
 
